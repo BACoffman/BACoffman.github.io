@@ -5,8 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+<<<<<<< HEAD
         <p>
           WELCOME!
+=======
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+>>>>>>> 466d743786c1b0535f238a22e4e0059c54354982
         </p>
         <a
           className="App-link"
@@ -14,6 +20,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+<<<<<<< HEAD
+=======
+          Learn React
+>>>>>>> 466d743786c1b0535f238a22e4e0059c54354982
         </a>
       </header>
     </div>
